@@ -1,0 +1,158 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  color: #40514E;
+  font-weight: bolder;
+}
+
+p {
+  line-height: 2;
+}
+
+h1, h2 {
+  color: #66BFBF;
+}
+
+h3, .footer-link {
+  color: #11999E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Nothing You Could Do', cursive;
+  font-size: 5.625rem;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-size: 2rem;
+  padding-bottom: 10px;
+}
+
+body {
+  margin: 0;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+a{
+
+  color: #11999E;
+  font-family: 'Roboto', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+
+a:hover{
+
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #F1F6F9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+
+.programmer {
+  font-weight: normal;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.dev {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 30px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.cook {
+  width: 25%;
+  height: 25%;
+  float: right;
+  padding: 30px;
+}
+
+.code {
+  width: 25%;
+  height: 25%;
+  float: left;
+  padding: 30px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.right {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 30px 0;
+}
+
+.btn {
+  background: #66BFBF;
+  background-image: -webkit-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -moz-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -ms-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: -o-linear-gradient(top, #66BFBF, #66BFBF);
+  background-image: linear-gradient(to bottom, #66BFBF, #66BFBF);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #FFFFFF;
+  font-size: 15px;
+  padding: 7px 17px 7px 17px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #43d1a2;
+  text-decoration: none;
+}
+
+.contact-message{
+
+  width: 40%;
+  margin: 40px auto 60px;
+}
